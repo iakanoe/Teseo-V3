@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=C2-2
+Removed Pin From Net: NetName=BAT Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-3
+Removed Member From Class: ClassName=PCB Member=C1
+Removed Member From Class: ClassName=PCB Member=C2
+Removed Member From Class: ClassName=PCB Member=J1
+Removed Member From Class: ClassName=PCB Member=U1
+Added Pin To Net: NetName=BAT Pin=B1-30

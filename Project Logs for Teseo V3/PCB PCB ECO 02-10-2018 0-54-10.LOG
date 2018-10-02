@@ -1,0 +1,30 @@
+Added Component: Designator=D1(LED-3MM-RED)
+Added Component: Designator=D2(LED-3MM-RED)
+Added Component: Designator=D3(LED-3MM-RED)
+Added Component: Designator=R1(RES-Axial-400mil)
+Added Component: Designator=R2(RES-Axial-400mil)
+Added Component: Designator=R3(RES-Axial-400mil)
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=LED1 Pin=R1-2
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R2-2
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=R3-2
+Added Net: Name=LED3
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R3-1
+Added Net: Name=NetD3_A
+Added Member To Class: ClassName=PCB Member=Component D1 LED
+Added Member To Class: ClassName=PCB Member=Component D2 LED
+Added Member To Class: ClassName=PCB Member=Component D3 LED
+Added Member To Class: ClassName=PCB Member=Component R1 RES
+Added Member To Class: ClassName=PCB Member=Component R2 RES
+Added Member To Class: ClassName=PCB Member=Component R3 RES

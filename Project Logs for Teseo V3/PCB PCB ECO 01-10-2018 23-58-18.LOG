@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MOTIA Pin=B1-6
+Removed Pin From Net: NetName=MOTIB Pin=B1-8
+Removed Pin From Net: NetName=MOTDA Pin=B1-9
+Removed Pin From Net: NetName=MOTDB Pin=B1-12
+Added Pin To Net: NetName=MOTIB Pin=B1-6
+Added Pin To Net: NetName=MOTIA Pin=B1-8
+Added Pin To Net: NetName=MOTDB Pin=B1-9
+Added Pin To Net: NetName=MOTDA Pin=B1-12

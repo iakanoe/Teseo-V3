@@ -1,0 +1,16 @@
+Added Component: Designator=R4(RES-Axial-400mil)
+Added Component: Designator=R5(RES-Axial-400mil)
+Added Component: Designator=U1(CNY70)
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U1-E
+Added Pin To Net: NetName=GND Pin=U1-K
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-C
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-A
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=PCB Member=Component R4 RES
+Added Member To Class: ClassName=PCB Member=Component R5 RES
+Added Member To Class: ClassName=PCB Member=Component U1 CNY70

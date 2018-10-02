@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=S1 NewDesignator=S4
+Added Component: Designator=S1(TACT_SWITCH-SMALL-4PIN)
+Added Component: Designator=S2(TACT_SWITCH-SMALL-4PIN)
+Added Component: Designator=S3(TACT_SWITCH-SMALL-4PIN)
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=BTN1 Pin=S1-1
+Added Pin To Net: NetName=BTN1 Pin=S1-1
+Added Net: Name=BTN1
+Added Pin To Net: NetName=BTN2 Pin=S2-1
+Added Pin To Net: NetName=BTN2 Pin=S2-1
+Added Net: Name=BTN2
+Added Pin To Net: NetName=BTN3 Pin=S3-1
+Added Pin To Net: NetName=BTN3 Pin=S3-1
+Added Net: Name=BTN3
+Added Member To Class: ClassName=PCB Member=Component S2 BUTTON
+Added Member To Class: ClassName=PCB Member=Component S3 BUTTON
+Added Member To Class: ClassName=PCB Member=Component S4 SLIDE-SWITCH

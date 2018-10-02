@@ -1,0 +1,99 @@
+Added Component: Designator=B1(ARDUINO NANO)
+Added Component: Designator=B2(DIP16)
+Added Component: Designator=C1(CAP-CER)
+Added Component: Designator=C2(CAP-CER)
+Added Component: Designator=J1(Header 1x3)
+Added Component: Designator=J2(HEADER 1x2)
+Added Component: Designator=MOTD(HEADER 1x2)
+Added Component: Designator=MOTI(HEADER 1x2)
+Added Component: Designator=S1(SWITCH)
+Added Component: Designator=U1(TO-220-FLAT)
+Added Component: Designator=US1(HC-SR04)
+Added Component: Designator=US2(HC-SR04)
+Added Component: Designator=US3(HC-SR04)
+Added Component: Designator=US4(HC-SR04)
+Added Component: Designator=US5(HC-SR04)
+Added Pin To Net: NetName=BAT Pin=B2-8
+Added Pin To Net: NetName=BAT Pin=J1-2
+Added Pin To Net: NetName=BAT Pin=S1-1
+Added Net: Name=BAT
+Added Pin To Net: NetName=ECHO1 Pin=US1-3
+Added Net: Name=ECHO1
+Added Pin To Net: NetName=ECHO2 Pin=US2-3
+Added Net: Name=ECHO2
+Added Pin To Net: NetName=ECHO3 Pin=US3-3
+Added Net: Name=ECHO3
+Added Pin To Net: NetName=ECHO4 Pin=US4-3
+Added Net: Name=ECHO4
+Added Pin To Net: NetName=ECHO5 Pin=US5-3
+Added Net: Name=ECHO5
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=B1-29
+Added Pin To Net: NetName=GND Pin=B2-4
+Added Pin To Net: NetName=GND Pin=B2-5
+Added Pin To Net: NetName=GND Pin=B2-12
+Added Pin To Net: NetName=GND Pin=B2-13
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=US1-4
+Added Pin To Net: NetName=GND Pin=US2-4
+Added Pin To Net: NetName=GND Pin=US3-4
+Added Pin To Net: NetName=GND Pin=US4-4
+Added Pin To Net: NetName=GND Pin=US5-4
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTDA Pin=B2-10
+Added Net: Name=MOTDA
+Added Pin To Net: NetName=MOTDB Pin=B2-15
+Added Net: Name=MOTDB
+Added Pin To Net: NetName=MOTIA Pin=B2-2
+Added Net: Name=MOTIA
+Added Pin To Net: NetName=MOTIB Pin=B2-7
+Added Net: Name=MOTIB
+Added Pin To Net: NetName=NetB1_30 Pin=B1-30
+Added Pin To Net: NetName=NetB1_30 Pin=J1-3
+Added Net: Name=NetB1_30
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=NetB2_3 Pin=MOTI-1
+Added Net: Name=NetB2_3
+Added Pin To Net: NetName=NetB2_6 Pin=B2-6
+Added Pin To Net: NetName=NetB2_6 Pin=MOTI-2
+Added Net: Name=NetB2_6
+Added Pin To Net: NetName=NetB2_11 Pin=B2-11
+Added Pin To Net: NetName=NetB2_11 Pin=MOTD-1
+Added Net: Name=NetB2_11
+Added Pin To Net: NetName=NetB2_14 Pin=B2-14
+Added Pin To Net: NetName=NetB2_14 Pin=MOTD-2
+Added Net: Name=NetB2_14
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=S1-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=TRIG1 Pin=US1-2
+Added Net: Name=TRIG1
+Added Pin To Net: NetName=TRIG2 Pin=US2-2
+Added Net: Name=TRIG2
+Added Pin To Net: NetName=TRIG3 Pin=US3-2
+Added Net: Name=TRIG3
+Added Pin To Net: NetName=TRIG4 Pin=US4-2
+Added Net: Name=TRIG4
+Added Pin To Net: NetName=TRIG5 Pin=US5-2
+Added Net: Name=TRIG5
+Added Pin To Net: NetName=VCC Pin=B1-27
+Added Pin To Net: NetName=VCC Pin=B2-1
+Added Pin To Net: NetName=VCC Pin=B2-9
+Added Pin To Net: NetName=VCC Pin=B2-16
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=US1-1
+Added Pin To Net: NetName=VCC Pin=US2-1
+Added Pin To Net: NetName=VCC Pin=US3-1
+Added Pin To Net: NetName=VCC Pin=US4-1
+Added Pin To Net: NetName=VCC Pin=US5-1
+Added Net: Name=VCC
+Added Class: Name=PCB
